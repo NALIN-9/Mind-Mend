@@ -1,9 +1,9 @@
 import React from 'react';
 
-// Import your local images
-import nalin from '../images/nalin.jpg';
-import shoib from '../images/shoib.jpg';  // matches actual file name
-import raj from '../images/raj.jpg';
+// Import your local images with exact filenames
+import nalin from '../images/nalin.JPG';
+import shoib from '../images/shoib.jpg';
+import raj from '../images/raj.JPG';
 
 const founders = [
   { name: 'Nalin Kumar', role: 'Front-end Team', image: nalin },
