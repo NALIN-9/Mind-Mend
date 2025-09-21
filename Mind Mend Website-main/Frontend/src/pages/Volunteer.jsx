@@ -2,7 +2,7 @@ import React from 'react';
 
 // Import your local images with exact filenames
 import nalin from '../images/nalin.JPG';
-import shoib from '../images/shoib.jpg';
+import shoib from '../images/shoaib.jpg';
 import raj from '../images/raj.JPG';
 
 const founders = [
