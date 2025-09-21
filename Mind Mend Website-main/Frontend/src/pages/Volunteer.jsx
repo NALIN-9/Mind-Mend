@@ -2,13 +2,13 @@ import React from 'react';
 
 // Import your local images
 import nalin from '../images/nalin.jpg';
-import shoib from '../images/shoib.jpg';
+import shoib from '../images/shoaib.jpg';
 import raj from '../images/raj.jpg';
 
 const founders = [
-  { name: 'Nalin Kumar', role: 'Front-end team', image: nalin },
-  { name: 'Shoib', role: 'Front-end Team', image: shoib },
-  { name: 'Nalin Raj', role: 'Front-end team lead', image: raj },
+  { name: 'Nalin Kumar', role: 'Front-end Team', image: nalin },
+  { name: 'Shoaib', role: 'Front-end Team', image: shoib },
+  { name: 'Nalin Raj', role: 'Front-end Team Lead', image: raj },
 ];
 
 const Volunteer = () => {
