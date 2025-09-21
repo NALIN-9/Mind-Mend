@@ -43,4 +43,6 @@ We believe every individual deserves the opportunity to lead a fulfilling life. 
 Clone the project:
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/YourUsername/MindMend.git
+
+
