@@ -24,8 +24,7 @@ Mind Mend is an ongoing project aimed at creating a **comprehensive mental healt
 ## Tech Stack
 
 **Client:** HTML, CSS, React.js  
-**Server:** Node.js, Express, Firebase  
-**APIs:** JokeAPI, MemeGen API (optional fun features)
+**Server:** Node.js.
 
 ---
 
