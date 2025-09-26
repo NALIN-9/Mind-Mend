@@ -31,6 +31,7 @@ Mind Mend is an ongoing project aimed at creating a **comprehensive mental healt
 ## Author
 
 - **Nalin Kumar** – [@NALIN-9](https://github.com/NALIN-9)
+- **Shoaib** -[(https://github.com/skshoaib8247)]
 
 ---
 
